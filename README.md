@@ -1,5 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This Project is hosted at http://users_status_detail.surge.sh/
+
+## Libraries Used
+
+###  axios
+ For data fetching from API
+ 
+###  moment and moment-timezone
+For comparing date with different time zones
+
+###  react-big-calendar
+For calendar view
+
+
+## API
+https://demo9221932.mockable.io/users
+
+
+##  Hosted at Domain 
+surge.sh
+
+
+## UI
+bootstrap is used for UI.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
