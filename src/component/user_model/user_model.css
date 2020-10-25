@@ -1,0 +1,39 @@
+.modal-cont {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #00000024;
+  top: 0;
+  left: 0;
+  overflow: scroll;
+}
+
+.modal {
+  background-color: #acc5bf;
+  padding: 32px;
+  width: 75%;
+  height: auto;
+  position: absolute;
+  left: 50%;
+  top: 65px;
+  transform: translateX(-50%);
+}
+
+.card-heading {
+  color: Blue;
+}
+
+h3 {
+  color: olive;
+}
+
+h2 {
+  color: green;
+}
+
+.btn {
+  font-size: 16px;
+  border-radius: 7px;
+  margin: 20px;
+  cursor: pointer;
+}
