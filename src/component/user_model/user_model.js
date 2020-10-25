@@ -91,16 +91,16 @@ class UserModel extends Component {
                           <div key={index}>
                             <strong>Start Time: </strong>
                             {`${time.start_time.substr(
-                              time.start_time.length - 7,
-                              5
+                              0,
+                              time.start_time.length - 2
                             )}${' '}${time.start_time.substr(
                               time.start_time.length - 2,
                               2
                             )}`}{' '}
                             <strong>End Time: </strong>
                             {`${time.end_time.substr(
-                              time.end_time.length - 7,
-                              5
+                              0,
+                              time.end_time.length - 2
                             )}${' '}${time.end_time.substr(
                               time.end_time.length - 2,
                               2
